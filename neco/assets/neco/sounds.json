@@ -1,0 +1,98 @@
+{
+    "hit.neco.1": {
+        "subtitle": "neco arc bibi",
+        "sounds": [
+            "neco/hit/necoarc-bibibi"
+        ]
+    },
+    "hit.neco.2": {
+        "subtitle": "neco arc gao",
+        "sounds": [
+            "neco/hit/necoarc-gao"
+        ]
+    },
+    "hit.neco.3": {
+        "subtitle": "neco arc gobeh",
+        "sounds": [
+            "neco/hit/necoarc-gobeh"
+        ]
+    },
+    "hit.neco.4": {
+        "subtitle": "neco arc kill",
+        "sounds": [
+            "neco/hit/necoarc-kill"
+        ]
+    },
+    "hit.neco.5": {
+        "subtitle": "neco arc ku",
+        "sounds": [
+            "neco/hit/necoarc-ku"
+        ]
+    },
+    "hit.neco.6": {
+        "subtitle": "neco arc ngaa2",
+        "sounds": [
+            "neco/hit/necoarc-ngaa2"
+        ]
+    },
+    "hit.neco.7": {
+        "subtitle": "neco arc nyeh7",
+        "sounds": [
+            "neco/hit/necoarc-nyeh7"
+        ]
+    },
+    "hit.neco.8": {
+        "subtitle": "neco arc nyinyi",
+        "sounds": [
+            "neco/hit/necoarc-nyinyi"
+        ]
+    },
+    "hit.neco.9": {
+        "subtitle": "neco arc shaa",
+        "sounds": [
+            "neco/hit/necoarc-shaa"
+        ]
+    },
+    "hit.neco.10": {
+        "subtitle": "neco arc shibu",
+        "sounds": [
+            "neco/hit/necoarc-shibu"
+        ]
+    },
+    "hit.neco.11": {
+        "subtitle": "neco arc sneeze",
+        "sounds": [
+            "neco/hit/necoarc-sneeze"
+        ]
+    },
+    "hit.neco.12": {
+        "subtitle": "neco arc woah",
+        "sounds": [
+            "neco/hit/necoarc-woah"
+        ]
+    },
+    "hit.neco.13": {
+        "subtitle": "neco arc y",
+        "sounds": [
+            "neco/hit/necoarc-y"
+        ]
+    },
+    "hit.neco.14": {
+        "subtitle": "neco arc y",
+        "sounds": [
+            "neco/hit/necoarc-y"
+        ]
+    },
+    "hit.neco.15": {
+        "subtitle": "neco arc y",
+        "sounds": [
+            "neco/hit/necoarc-y"
+        ]
+    },
+    "hit.neco.16": {
+        "subtitle": "neco arc burake",
+        "sounds": [
+            "neco/hit/necoarcburake"
+        ]
+    }
+}

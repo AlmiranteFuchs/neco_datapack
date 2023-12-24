@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/flint"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1116111
+      },
+      "model": "minecraft:item/neco_animated"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1117111
+      },
+      "model": "minecraft:item/neco_hurt"
+    }
+  ]
+}

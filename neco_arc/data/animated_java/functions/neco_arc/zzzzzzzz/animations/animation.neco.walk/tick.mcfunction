@@ -1,0 +1,2 @@
+execute if score @s aj.tween_time matches 1.. run function animated_java:neco_arc/zzzzzzzz/animations/animation.neco.walk/tick_tween
+execute unless score @s aj.tween_time matches 1.. run function animated_java:neco_arc/zzzzzzzz/animations/animation.neco.walk/tick_animation

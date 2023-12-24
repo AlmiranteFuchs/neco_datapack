@@ -1,0 +1,3 @@
+execute if score @s aj.neco_arc.animation.animation.neco.walk.loop_mode = $aj.loop_mode.loop aj.i run function animated_java:neco_arc/zzzzzzzz/animations/animation.neco.walk/end_loop
+execute if score @s aj.neco_arc.animation.animation.neco.walk.loop_mode = $aj.loop_mode.once aj.i run function animated_java:neco_arc/animations/animation.neco.walk/stop
+execute if score @s aj.neco_arc.animation.animation.neco.walk.loop_mode = $aj.loop_mode.hold aj.i run function animated_java:neco_arc/animations/animation.neco.walk/pause

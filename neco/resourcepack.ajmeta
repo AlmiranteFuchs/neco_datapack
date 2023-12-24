@@ -1,0 +1,17 @@
+{
+    "version": "0.4.6",
+    "projects": {
+        "eb84dd82-1345-9913-ab0c-0dc4c3765e2d": {
+            "project_name": "fung_test",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\neco_arc\\l_arm.json",
+                "assets\\animated_java\\models\\item\\neco_arc\\r_arm.json",
+                "assets\\animated_java\\models\\item\\neco_arc\\torso.json",
+                "assets\\animated_java\\models\\item\\neco_arc\\skirt.json",
+                "assets\\animated_java\\models\\item\\neco_arc\\l_legs.json",
+                "assets\\animated_java\\models\\item\\neco_arc\\r_legs.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}

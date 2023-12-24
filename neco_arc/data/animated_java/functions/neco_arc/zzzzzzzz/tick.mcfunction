@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.neco_arc.root] run function animated_java:neco_arc/zzzzzzzz/tick_as_root

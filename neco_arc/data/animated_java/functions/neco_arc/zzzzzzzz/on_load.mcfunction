@@ -1,0 +1,2 @@
+scoreboard players set @s aj.neco_arc.rig_loaded 1
+execute unless score @s aj.neco_arc.export_version = aj.neco_arc.export_version aj.i at @s run function animated_java:neco_arc/zzzzzzzz/mark_outdated_rig

@@ -1,0 +1,1 @@
+function animated_java:neco_arc/zzzzzzzz/animations/animation.neco.walk/tick_animation

@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/carved_pumpkin"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1116111
+      },
+      "model": "item/neco_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1117111
+      },
+      "model": "item/neco_head_hurt"
+    }
+  ]
+}

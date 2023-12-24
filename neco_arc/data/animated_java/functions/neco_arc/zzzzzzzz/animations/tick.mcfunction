@@ -1,0 +1,1 @@
+execute if entity @s[tag=aj.neco_arc.animation.animation.neco.walk] run function animated_java:neco_arc/zzzzzzzz/animations/animation.neco.walk/tick
